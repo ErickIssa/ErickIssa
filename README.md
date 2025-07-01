@@ -22,5 +22,4 @@
 
 ## 📎 Repositórios em destaque
 
-- [Projeto de Estrutura de Dados](https://github.com/seu-usuario/estrutura-dados)
-- [Simulador de Memória Cache](https://github.com/seu-usuario/simulador-cache)
+- [ArvorePatriciaString]([https://github.com/seu-usuario/estrutura-dados](https://github.com/ErickIssa/ArvorePatriciaString))
