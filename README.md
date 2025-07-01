@@ -3,22 +3,10 @@
 - 💻 Estudante de Ciência da Computação na UFV Florestal
 - 🔭 Trabalhando em projetos de algoritmos, estrutura de dados e C
 - 🌱 Aprendendo Engenharia de Software e Inteligência Artificial
-- 📫 Contato: erickvinicius19675@email.com
+- 📫 Contato: erickvinicius19675@gmail.com
 
 ## 📊 Estatísticas do GitHub
 
-<table>
-  <tr>
-    <th>Nome</th>
-    <th>Linguagem</th>
-    <th>Projeto</th>
-  </tr>
-  <tr>
-    <td>Projeto1</td>
-    <td>C</td>
-    <td>Simulador Cache</td>
-  </tr>
-</table>
 
 
 ![Érick's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
