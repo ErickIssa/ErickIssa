@@ -7,6 +7,20 @@
 
 ## 📊 Estatísticas do GitHub
 
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Linguagem</th>
+    <th>Projeto</th>
+  </tr>
+  <tr>
+    <td>Projeto1</td>
+    <td>C</td>
+    <td>Simulador Cache</td>
+  </tr>
+</table>
+
+
 ![Érick's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
