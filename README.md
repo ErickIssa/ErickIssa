@@ -14,7 +14,6 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickIssa&layout=compact&theme=radical)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ErickIssa&hide=makefile,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/ErickIssa)
 
 ## 🧠 Tecnologias
 
