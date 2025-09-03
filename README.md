@@ -12,7 +12,7 @@
 
 ![ErickIssa's Stats](https://github-readme-stats.vercel.app/api?username=ErickIssa&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickIssa&layout=compact&theme=radical)
+![ErickIssa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickIssa&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 
 ## 🧠 Tecnologias
