@@ -15,12 +15,9 @@
 ![ErickIssa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickIssa&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 
-## 🧠 Tecnologias
+<img src="https://raw.githubusercontent.com/ErickIssa/ErickIssa/output/snake.svg" alt="Snake animation" />
 
-<img src="https://img.shields.io/badge/C-blue?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+###
 
 ## 📎 Repositórios em destaque
 
